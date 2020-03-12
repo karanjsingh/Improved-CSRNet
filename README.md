@@ -15,6 +15,7 @@ As we were searching over the internet, we could not find any keras implementati
 
 ## Dataset :
 The dataset used is ShanghaiTech dataset available here : [Drive Link](https://drive.google.com/file/d/16dhJn7k4FWVwByRsQAEpl9lwjuV03jVI/view)
+## Weights can be downloaded from Drive Link : https://drive.google.com/drive/u/0/folders/1YcM01mrJR3aHKDDNdMvwaHFHpfg2h2zi
 
 The dataset is divided into two parts, A and B. Part A consists of images with a high density of crowd. Part B consists of images with sparse crowd scenes.   
 
