@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@karanjsingh 
-karanjsingh
-/
-Improved-CSRNet
-1
-00
- Code
- Issues 0
- Pull requests 0 Actions
- Projects 0
- Wiki
- Security 0
- Insights
- Settings
-Update README.md
-
- master
-@karanjsingh
-karanjsingh committed on Mar 11 
-1 parent 308e69a commit 748fb1f65864f4af2c4ada9974851cba989efe86
-Showing  with 1 addition and 0 deletions.
- 1  README.md 
-@@ -1,20 +1,21 @@
 # CSRNet-keras
 Implementation of the CSRNet paper (CVPR 18) in keras-tensorflow. First ever to be done in keras-tf as of 21/9/18.
 Mindspark Hackathon Winning Project(Kumbh-Mela Disaster Management):
